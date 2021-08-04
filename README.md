@@ -1,4 +1,4 @@
-# Whatermark Service
+# Watermark Service
 
 This is a Java Spring Boot application designed for adding a watermark to the picture.
 Using a localhost and browser you may upload the image and get a whatermark on it.
